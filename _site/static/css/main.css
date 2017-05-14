@@ -101,6 +101,9 @@ body {
 .container a:hover {
   color: #FFDE56;
 }
+.intro {
+    padding-top: 3%;
+}
 .img-responsive {
  display: block;
  height: auto;
